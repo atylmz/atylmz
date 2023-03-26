@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Talha! 👋
+
+- 🔭 I’m currently working on 
+- 📫 How to reach me: talha.yilmaz@mail.com
+- 🌱 I’m currently learning ReactJs
+<img alignt="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atylmz&layout=compact">
+
 
 <!--
 **atylmz/atylmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
